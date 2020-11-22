@@ -1,7 +1,7 @@
-// Time Complexity : O(n^m), where n is the length of the candidates array and m in the target
-// Space Complexity : O(n+m), where n is the length of the candidates array and m in the target
+// Time Complexity : O(n^m), where n is the length of the candidates array and m in the target (exponential time)
+// Space Complexity : O(n^m), where n is the length of the candidates array and m in the target (exponential space)
 // Did this code successfully run on Leetcode : Yes
-// Any problem you faced while coding this :
+// Any problem you faced while coding this : correct me on the time and space complexity
 
 
 // Your code here along with comments explaining your approach
